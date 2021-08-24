@@ -1,0 +1,13 @@
+backup_home.sh
+calculate_area.sh
+commented_script.sh
+information_exercise.sh
+inverseSerarchStringInFile.sh
+listUser.sh
+localhostSearch.sh
+mysystem.sh
+playAudio.sh
+positionalperameters.sh
+readmeSearch.sh
+searchStringInFile.sh
+search_subdir.sh
