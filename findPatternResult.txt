@@ -1,0 +1,12 @@
+/usr/bin/canberra-gtk-play
+/usr/bin/cancel
+/usr/bin/catman
+/usr/bin/gamma4scanimage
+/usr/bin/man
+/usr/bin/mandb
+/usr/bin/manpath
+/usr/bin/man-recode
+/usr/bin/nano
+/usr/bin/ranlib
+/usr/bin/sane-find-scanner
+/usr/bin/vagrant
