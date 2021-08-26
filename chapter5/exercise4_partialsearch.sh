@@ -1,5 +1,6 @@
 #!/bin/bash
 # Print to standard output only the lines containing the pattern "an".
-touch at.txt
+
 pwd
-ls -al | sed -n 'an' > a.txt
+ls -al | sed -n '/an/p' input.txt > output.txt
+echo
